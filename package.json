@@ -1,0 +1,17 @@
+{
+  "name": "kes-to-eso",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "bin": "kes-to-eso.mjs",
+  "dependencies": {
+    "globby": "^11.0.4",
+    "js-yaml": "^4.1.0",
+    "meow": "^10.0.1",
+    "mkdirp": "^1.0.4",
+    "yaml": "^1.10.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
